@@ -33,7 +33,7 @@ Databases: PostgreSQL, SQLite
 ## 📬 Get in Touch
 
 📧 Email: wuyukun.steven@gmail.com
-🐙 GitHub: Yukun-Steven
+🐙 GitHub: https://github.com/Yukun-steven
 
 
 
