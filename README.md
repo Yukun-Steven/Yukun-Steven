@@ -6,11 +6,11 @@ I'm looking for a 12-month Software Engineering Internship starting between May 
 
 ##  About Me
 
--🎓 Third-year Software Engineering student at the University of Calgary
--💻 Exploring different areas of software development through hands-on projects
--🏠 Currently building a real estate search application for British Columbia
--🚨 Previously worked on a team-based real-time fall-detection system
--📚 Interested in learning new technologies and finding the area of software engineering I enjoy most
+- 🎓 Third-year Software Engineering student at the University of Calgary
+- 💻 Exploring different areas of software development through hands-on projects
+- 🏠 Currently building a real estate search application for British Columbia
+- 🚨 Previously worked on a team-based real-time fall-detection system
+- 📚 Interested in learning new technologies and finding the area of software engineering I enjoy most
 
 
 
