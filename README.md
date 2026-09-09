@@ -1,4 +1,4 @@
-# Hi, I'm <Yukun(steven)>! 👋
+# Hi, I'm Yukun(steven) Wu! 👋
 
 I'm a third-year Software Engineering student at the University of Calgary. I'm currently exploring different areas of software development through academic and personal projects to find out what interests me most.
 
@@ -22,19 +22,21 @@ Web Development: React, FastAPI, Flask, HTML, CSS
 
 Databases: PostgreSQL, SQLite
 
+**CAD & 3D Design:** SolidWorks
+
 ## 🌱 Currently Exploring
 
--Exploring different areas of software development through coursework and personal projects to find out what interests me most.
--Building full-stack applications and learning more about APIs and databases.
--Improving my understanding of data structures, algorithms, and software design.
--Exploring computer vision, machine learning, and other areas through hands-on projects.
--Continuing to improve my programming skills by building and reviewing projects.
+- Exploring different areas of software development through coursework and personal projects to find out what interests me most.
+- Building full-stack applications and learning more about APIs and databases.
+- Improving my understanding of data structures, algorithms, and software design.
+- Exploring computer vision, machine learning, and other areas through hands-on projects.
+- Continuing to improve my programming skills by building and reviewing projects.
 
 ## 📬 Get in Touch
 
-📧 Email: wuyukun.steven@gmail.com
-🐙 GitHub: https://github.com/Yukun-steven
-
+- 📧 Email: wuyukun.steven@gmail.com
+- 🐙 Personal GitHub: https://github.com/Yukun-steven
+- 🎓 School GitHub: https://github.com/stevenwu01
 
 
 <!--
