@@ -32,6 +32,38 @@ Databases: PostgreSQL, SQLite
 - Exploring computer vision, machine learning, and other areas through hands-on projects.
 - Continuing to improve my programming skills by building and reviewing projects.
 
+## Projects & Contributions
+
+### WatchOut - Fall Detection System
+
+Team project for real-time fall detection using computer vision.
+
+My contributions included:
+- Implemented fall-detection logic using human pose landmarks, body orientation, and movement-based criteria
+- Tested the camera and fall-detection pipeline
+- Adjusted detection logic based on testing results
+
+**Tech:** Python, OpenCV, MediaPipe, aiohttp, Docker
+
+[View Repository](https://github.com/PaulYYLin/BinaryHitters-WatchOut-DL)
+
+---
+
+### BC Housing - Real Estate Search Application
+
+Personal full-stack web application for searching residential properties in British Columbia.
+
+Key features:
+- Search properties by city
+- Display property listings using reusable property cards
+- Integrated real property listing data through the Zealty API
+- Supports switching between live and test data
+- Built REST API endpoints for property search
+- Uses SQLite for local test data
+- Includes frontend loading and error handling
+
+**Tech:** React, Next.js, FastAPI, Python, SQLite
+
 ## 📬 Get in Touch
 
 - 📧 Email: wuyukun.steven@gmail.com
